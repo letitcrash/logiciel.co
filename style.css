@@ -128,3 +128,7 @@ pre code {
   height: 3px;
   background-color: #E74647;
 }
+
+ul {
+  list-style: none;
+}
