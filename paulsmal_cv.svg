@@ -341,16 +341,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.80622195"
-     inkscape:cx="364.1999"
-     inkscape:cy="429.61865"
+     inkscape:cx="370.40167"
+     inkscape:cy="727.30343"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="768"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1299"
+     inkscape:window-height="704"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:measure-start="0,0"
@@ -469,7 +469,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -525,8 +525,8 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.18078423px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#3fcca6;fill-opacity:1;stroke-width:0.19879901">SOFTWARE  DEVELOPER / STARTUP ENTHUSIAST</tspan></text>
     <a
        xlink:href="logiciel.co"
-       transform="translate(-23.398809,0.60296061)"
-       id="a307">
+       id="a307"
+       transform="translate(-23.398809,0.60296061)">
       <a
          id="a4017">
         <text
@@ -665,7 +665,7 @@
            y="157.2226"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, '" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15646744px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, '"
-         id="flowPara4106">Software developer and OSS software user. Recently I worked with Elixir, JS, Elm but I would be happy to work with other languages too. I can drop into &quot;DevOps&quot; role if needed to automate my workflow. Experience in communications, networks and logistics areas. I'm curios about startups, programming, BeamVM,  and would like to find a job that intersects with my interests and experience. I withdraw from university after 3 years studing CS and obtained marketing degree later.  </flowPara></flowRoot>    <text
+         id="flowPara4106">Software developer and OSS software user. Recently I worked with Elixir, JS, Elm but I would be happy to work with other languages too. I can drop into &quot;DevOps&quot; role if needed to automate my workflow. Experience in communications, networks and logistics areas. I'm curious about startups, programming, BeamVM,  and would like to find a job that intersects with my interests and experience. I withdraw from university after 3 years studying CS and obtained marketing degree later.  </flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'Elegant Lux';-inkscape-font-specification:'Elegant Lux';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="83.909264"
@@ -1330,7 +1330,7 @@
          id="tspan4036"
          x="84.004288"
          y="20.470734"
-         style="stroke-width:0.26458332"></tspan></text>
+         style="stroke-width:0.26458332" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1666,6 +1666,6 @@
          sodipodi:role="line"
          x="16.449364"
          y="260.18274"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#ff0400;fill-opacity:1;stroke-width:0.26458332">Java, Scala, Play frameworl, PostgreSQL</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#ff0400;fill-opacity:1;stroke-width:0.26458332">Java, Scala, Play framework, PostgreSQL</tspan></text>
   </g>
 </svg>
