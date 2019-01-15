@@ -340,9 +340,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.80622195"
-     inkscape:cx="370.40167"
-     inkscape:cy="727.30343"
+     inkscape:zoom="1.14017"
+     inkscape:cx="422.52675"
+     inkscape:cy="890.05858"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -469,7 +469,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -665,7 +665,7 @@
            y="157.2226"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, '" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15646744px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, '"
-         id="flowPara4106">Software developer and OSS software user. Recently I worked with Elixir, JS, Elm but I would be happy to work with other languages too. I can drop into &quot;DevOps&quot; role if needed to automate my workflow. Experience in communications, networks and logistics areas. I'm curious about startups, programming, BeamVM,  and would like to find a job that intersects with my interests and experience. I withdraw from university after 3 years studying CS and obtained marketing degree later.  </flowPara></flowRoot>    <text
+         id="flowPara4106">Software developer and OSS software user. Recently I worked with Elixir, JS, Elm but I would be happy to work with other languages too. I can drop into &quot;DevOps&quot; role if needed to automate my workflow. Experience in communications, networks and logistics areas. I'm curious about startups, programming, BeamVM and would like to find a job that intersects with my interests and experience. I withdraw from university for work after 3 years studying CS.  </flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'Elegant Lux';-inkscape-font-specification:'Elegant Lux';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="83.909264"
@@ -731,13 +731,13 @@
          x="16.404165"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21782849px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
            y="91.286461"
            x="16.404165"
            id="tspan1103-6"
            sodipodi:role="line">Linux</tspan><tspan
            id="tspan1107-1"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21782849px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
            y="94.841797"
            x="16.404165"
            sodipodi:role="line" /></text>
@@ -768,13 +768,13 @@
          x="16.404165"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21782849px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
            y="91.286461"
            x="16.404165"
            id="tspan1103-6-0"
-           sodipodi:role="line">Git, SSH, VIM</tspan><tspan
+           sodipodi:role="line">Git, SSH, Vim, Tmux</tspan><tspan
            id="tspan1107-1-8"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21782849px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
            y="94.81424"
            x="16.404165"
            sodipodi:role="line" /></text>
@@ -805,13 +805,13 @@
          x="16.404165"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21782849px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
            y="91.286461"
            x="16.404165"
            id="tspan1103-6-0-3"
            sodipodi:role="line">Elixir, Phoenix framework</tspan><tspan
            id="tspan1107-1-8-9"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21782849px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
            y="94.841797"
            x="16.404165"
            sodipodi:role="line" /></text>
@@ -842,13 +842,13 @@
          x="16.404165"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21782849px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
            y="91.286461"
            x="16.404165"
            id="tspan1103-6-0-3-4"
            sodipodi:role="line">JavaScript</tspan><tspan
            id="tspan1107-1-8-9-7"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21782849px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
            y="94.841797"
            x="16.404165"
            sodipodi:role="line" /></text>
@@ -879,13 +879,13 @@
          x="16.404165"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21782849px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
            y="91.286461"
            x="16.404165"
            id="tspan1103-6-0-3-4-1"
            sodipodi:role="line">HTML, CSS</tspan><tspan
            id="tspan1107-1-8-9-7-0"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21782849px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
            y="94.841797"
            x="16.404165"
            sodipodi:role="line" /></text>
@@ -916,7 +916,7 @@
          x="16.404165"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21782849px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
            y="91.286461"
            x="16.404165"
            id="tspan1103-6-0-3-4-1-6"
@@ -954,10 +954,10 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
            id="tspan1107-1-8-9-7-0-2-3"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21782849px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
            y="91.286461"
            x="16.404165"
-           sodipodi:role="line">Containers</tspan></text>
+           sodipodi:role="line">LXC, ZFS, Docker</tspan></text>
     </g>
     <g
        id="g1129-8-3-7-4-3-4-2-0"
@@ -985,13 +985,13 @@
          x="16.404165"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21782849px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
            y="91.286461"
            x="16.404165"
            id="tspan1103-6-0-3-4-1-6-1-6"
-           sodipodi:role="line">SQL, NoSQL</tspan><tspan
+           sodipodi:role="line">Databases</tspan><tspan
            id="tspan1107-1-8-9-7-0-2-3-9"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21782849px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
            y="94.841797"
            x="16.404165"
            sodipodi:role="line" /></text>
@@ -1022,13 +1022,13 @@
          x="16.404165"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21782849px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
            y="91.286461"
            x="16.404165"
            id="tspan1103-6-0-3-4-1-6-1-6-4"
            sodipodi:role="line">Java, Objective-C, C, PHP</tspan><tspan
            id="tspan1107-1-8-9-7-0-2-3-9-6"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21782849px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
            y="94.841797"
            x="16.404165"
            sodipodi:role="line" /></text>
@@ -1059,20 +1059,21 @@
          x="16.404165"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21782849px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
            y="91.286461"
            x="16.404165"
            id="tspan1103-6-0-3-4-1-6-1-6-4-5"
            sodipodi:role="line">WebRTC, RTP</tspan><tspan
            id="tspan1107-1-8-9-7-0-2-3-9-6-9"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21782849px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
            y="94.841797"
            x="16.404165"
            sodipodi:role="line" /></text>
     </g>
     <g
        id="g4370"
-       transform="translate(0,-7.9375004)">
+       transform="translate(0,-7.9375004)"
+       style="">
       <text
          id="text5973"
          y="97.063103"
@@ -1094,19 +1095,19 @@
            y="108.57912"
            x="146.24837"
            id="tspan5971-8"
-           sodipodi:role="line">Main daily drivers of my workflow</tspan></text>
+           sodipodi:role="line">Main daily drivers </tspan></text>
       <text
          id="text5973-8-2"
          y="119.83784"
          x="146.24364"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.86758208px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29006866"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.09406567px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
            y="119.83784"
            x="146.24364"
            id="tspan5971-8-5"
            sodipodi:role="line">Writing backend services, database </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.09406567px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
            y="124.67232"
            x="146.24364"
            sodipodi:role="line"
@@ -1117,17 +1118,17 @@
          x="146.23891"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.86758208px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29006866"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.09406567px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
            y="135.84453"
            x="146.23891"
            sodipodi:role="line"
            id="tspan6381">Writing simple web and mobile </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.09406567px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
            y="140.679"
            x="146.23891"
            sodipodi:role="line"
            id="tspan6387">frontend apps with React and </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.09406567px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
            y="145.51349"
            x="146.23891"
            sodipodi:role="line"
@@ -1138,12 +1139,12 @@
          x="146.246"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.86758208px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29006866"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.09406567px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
            y="155.92729"
            x="146.246"
            sodipodi:role="line"
            id="tspan6104-4-1">Creating web pages with </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.09406567px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
            y="160.76176"
            x="146.246"
            sodipodi:role="line"
@@ -1154,12 +1155,12 @@
          x="146.55998"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.86758208px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29006866"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.09406567px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
            y="171.98534"
            x="146.55998"
            sodipodi:role="line"
            id="tspan6104-4-1-7">Creating visual stuff for various</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.09406567px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
            y="176.81981"
            x="146.55998"
            sodipodi:role="line"
@@ -1170,28 +1171,30 @@
          x="146.56764"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.86758208px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29006866"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.09406567px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
            y="187.36205"
            x="146.56764"
            sodipodi:role="line"
-           id="tspan6988">Can drop into &quot;devops&quot; role</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.09406567px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
+           id="tspan6992">Can drop into &quot;devops&quot; role to automate </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
            y="192.19652"
            x="146.56764"
            sodipodi:role="line"
-           id="tspan6992">to automate my dev workflow</tspan></text>
+           id="tspan678">my dev workflow</tspan></text>
       <text
          id="text5973-8-2-7-5-8-1-3"
          y="203.24033"
          x="146.56764"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.86758208px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29006866"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.09406567px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
            y="203.24033"
            x="146.56764"
            sodipodi:role="line"
-           id="tspan7012">Mostly used SQL but worked with document</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.09406567px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
+           id="tspan7012">Mostly used <tspan
+   style="font-weight:bold;fill:#ff0000"
+   id="tspan680">SQL</tspan> but familiar with document</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
            y="208.0748"
            x="146.56764"
            sodipodi:role="line"
@@ -1202,12 +1205,12 @@
          x="146.56764"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.86758208px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29006866"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.09406567px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
            y="219.02644"
            x="146.56764"
            sodipodi:role="line"
            id="tspan7016">Had some work to do with this languages</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.09406567px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
            y="223.86092"
            x="146.56764"
            sodipodi:role="line"
@@ -1218,12 +1221,12 @@
          x="146.56764"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.86758208px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29006866"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.09406567px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
            y="234.99536"
            x="146.56764"
            sodipodi:role="line"
            id="tspan7022">I'm able to read documentation about </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.09406567px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
            y="239.82983"
            x="146.56764"
            sodipodi:role="line"
@@ -1401,7 +1404,7 @@
            x="15.921311"
            id="tspan1103-7"
            sodipodi:role="line">Sigma Software | <tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.2916536"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.2916536"
    id="tspan4112">Startup enthusiast</tspan></tspan><tspan
            id="tspan1107-2"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.11097193px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';stroke-width:0.2916536"
@@ -1455,7 +1458,7 @@
            x="16.031864"
            id="tspan1103-2"
            sodipodi:role="line">NetCracker · JPMOrganChase |<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.2916536"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.2916536"
    id="tspan4182"> Technical Project Manager</tspan></tspan><tspan
            id="tspan1107-9"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.11097193px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';stroke-width:0.2916536"
