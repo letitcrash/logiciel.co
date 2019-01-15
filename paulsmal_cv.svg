@@ -341,17 +341,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.14017"
-     inkscape:cx="426.91206"
-     inkscape:cy="890.05858"
+     inkscape:cx="518.56506"
+     inkscape:cy="398.90375"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1299"
-     inkscape:window-height="704"
-     inkscape:window-x="67"
-     inkscape:window-y="27"
+     inkscape:window-width="1366"
+     inkscape:window-height="768"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:measure-start="0,0"
      inkscape:measure-end="0,0">
@@ -460,6 +460,16 @@
        orientation="0,1"
        id="guide4210"
        inkscape:locked="false" />
+    <sodipodi:guide
+       position="46.179152,303.29725"
+       orientation="-0.70710678,0.70710678"
+       id="guide317"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="218.36473,272.89791"
+       orientation="1,0"
+       id="guide319"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata12554">
@@ -525,8 +535,8 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.18078423px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#3fcca6;fill-opacity:1;stroke-width:0.19879901">SOFTWARE  DEVELOPER / STARTUP ENTHUSIAST</tspan></text>
     <a
        xlink:href="logiciel.co"
-       transform="translate(-23.398809,0.60296061)"
-       id="a307">
+       id="a307"
+       transform="translate(-23.398809,0.60296061)">
       <a
          id="a4017">
         <text
@@ -1102,16 +1112,16 @@
          x="146.24364"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.86758208px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29006866"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
            y="119.83784"
            x="146.24364"
-           id="tspan5971-8-5"
-           sodipodi:role="line">Writing backend services, database </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
+           sodipodi:role="line"
+           id="tspan6104">Writing web services and OTP</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
            y="124.67232"
            x="146.24364"
            sodipodi:role="line"
-           id="tspan6104">access layers, ecosystem.</tspan></text>
+           id="tspan323">applications</tspan></text>
       <text
          id="text5973-8-2-7"
          y="135.84453"
@@ -1171,66 +1181,66 @@
          x="146.56764"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.86758208px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29006866"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
            y="187.36205"
            x="146.56764"
            sodipodi:role="line"
-           id="tspan6992">Can drop into &quot;devops&quot; role to automate </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
+           id="tspan6992">Can drop into &quot;devops&quot; role to </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
            y="192.19652"
            x="146.56764"
            sodipodi:role="line"
-           id="tspan678">my dev workflow</tspan></text>
+           id="tspan678">automate my dev workflow</tspan></text>
       <text
          id="text5973-8-2-7-5-8-1-3"
          y="203.24033"
          x="146.56764"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.86758208px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29006866"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
            y="203.24033"
            x="146.56764"
            sodipodi:role="line"
            id="tspan7012">Mostly used <tspan
    style="font-weight:bold;fill:#ff0000"
-   id="tspan680">SQL</tspan> but familiar with document</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
+   id="tspan680">SQL</tspan> but familiar with</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
            y="208.0748"
            x="146.56764"
            sodipodi:role="line"
-           id="tspan4374">and graph databases </tspan></text>
+           id="tspan4374"> documentand graph databases </tspan></text>
       <text
          id="text5973-8-2-7-5-8-1-3-2"
          y="219.02644"
          x="146.56764"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.86758208px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29006866"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
            y="219.02644"
            x="146.56764"
            sodipodi:role="line"
-           id="tspan7016">Had some work to do with this languages</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
+           id="tspan7016">Had some work to do with this </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
            y="223.86092"
            x="146.56764"
            sodipodi:role="line"
-           id="tspan4378">but quite long ago</tspan></text>
+           id="tspan4378">languages but quite long ago</tspan></text>
       <text
          id="text5973-8-2-7-5-8-1-3-2-9"
          y="234.99536"
          x="146.56764"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.86758208px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29006866"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
            y="234.99536"
            x="146.56764"
            sodipodi:role="line"
-           id="tspan7022">I'm able to read documentation about </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
+           id="tspan7022">I'm able to read documentation  </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
            y="239.82983"
            x="146.56764"
            sodipodi:role="line"
-           id="tspan4382">different protocols and  do data integrations</tspan></text>
+           id="tspan4382">and do data integrations</tspan></text>
     </g>
     <text
        xml:space="preserve"
