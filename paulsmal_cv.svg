@@ -341,17 +341,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.14017"
-     inkscape:cx="518.56506"
-     inkscape:cy="398.90375"
+     inkscape:cx="395.33782"
+     inkscape:cy="890.05858"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="768"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1299"
+     inkscape:window-height="704"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:measure-start="0,0"
      inkscape:measure-end="0,0">
@@ -460,16 +460,6 @@
        orientation="0,1"
        id="guide4210"
        inkscape:locked="false" />
-    <sodipodi:guide
-       position="46.179152,303.29725"
-       orientation="-0.70710678,0.70710678"
-       id="guide317"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="218.36473,272.89791"
-       orientation="1,0"
-       id="guide319"
-       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata12554">
@@ -479,7 +469,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -535,8 +525,8 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.18078423px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#3fcca6;fill-opacity:1;stroke-width:0.19879901">SOFTWARE  DEVELOPER / STARTUP ENTHUSIAST</tspan></text>
     <a
        xlink:href="logiciel.co"
-       id="a307"
-       transform="translate(-23.398809,0.60296061)">
+       transform="translate(-23.398809,0.60296061)"
+       id="a307">
       <a
          id="a4017">
         <text
@@ -964,10 +954,10 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
            id="tspan1107-1-8-9-7-0-2-3"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21782849px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21782851px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
            y="91.286461"
            x="16.404165"
-           sodipodi:role="line">LXC, ZFS, Docker</tspan></text>
+           sodipodi:role="line">LXC, Docker</tspan></text>
     </g>
     <g
        id="g1129-8-3-7-4-3-4-2-0"
@@ -1069,14 +1059,14 @@
          x="16.404165"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21782849px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21782851px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
            y="91.286461"
            x="16.404165"
            id="tspan1103-6-0-3-4-1-6-1-6-4-5"
-           sodipodi:role="line">WebRTC, RTP</tspan><tspan
+           sodipodi:role="line">REST, Protobuf, WebRTC, RTP....</tspan><tspan
            id="tspan1107-1-8-9-7-0-2-3-9-6-9"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21782849px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
-           y="94.841797"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21782851px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+           y="94.99015"
            x="16.404165"
            sodipodi:role="line" /></text>
     </g>
@@ -1112,16 +1102,16 @@
          x="146.24364"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.86758208px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29006866"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
            y="119.83784"
            x="146.24364"
-           sodipodi:role="line"
-           id="tspan6104">Writing web services and OTP</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
+           id="tspan5971-8-5"
+           sodipodi:role="line">Writing backend services, database </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777778px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
            y="124.67232"
            x="146.24364"
            sodipodi:role="line"
-           id="tspan323">applications</tspan></text>
+           id="tspan6104">access layers, ecosystem.</tspan></text>
       <text
          id="text5973-8-2-7"
          y="135.84453"
@@ -1203,12 +1193,12 @@
            sodipodi:role="line"
            id="tspan7012">Mostly used <tspan
    style="font-weight:bold;fill:#ff0000"
-   id="tspan680">SQL</tspan> but familiar with</tspan><tspan
+   id="tspan680">SQL</tspan> but familiar with </tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
            y="208.0748"
            x="146.56764"
            sodipodi:role="line"
-           id="tspan4374"> documentand graph databases </tspan></text>
+           id="tspan4374">document and graph databases </tspan></text>
       <text
          id="text5973-8-2-7-5-8-1-3-2"
          y="219.02644"
@@ -1219,12 +1209,12 @@
            y="219.02644"
            x="146.56764"
            sodipodi:role="line"
-           id="tspan7016">Had some work to do with this </tspan><tspan
+           id="tspan331">Other programming languages I</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
            y="223.86092"
            x="146.56764"
            sodipodi:role="line"
-           id="tspan4378">languages but quite long ago</tspan></text>
+           id="tspan335">worked with</tspan></text>
       <text
          id="text5973-8-2-7-5-8-1-3-2-9"
          y="234.99536"
@@ -1235,12 +1225,17 @@
            y="234.99536"
            x="146.56764"
            sodipodi:role="line"
-           id="tspan7022">I'm able to read documentation  </tspan><tspan
+           id="tspan7022">I'm able to read documentation </tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
            y="239.82983"
            x="146.56764"
            sodipodi:role="line"
-           id="tspan4382">and do data integrations</tspan></text>
+           id="tspan4382">about different protocols and  do </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.29006866"
+           y="244.66432"
+           x="146.56764"
+           sodipodi:role="line"
+           id="tspan327">data integrations</tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -1679,6 +1674,38 @@
          sodipodi:role="line"
          x="16.449364"
          y="260.18274"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#ff0400;fill-opacity:1;stroke-width:0.26458332">Java, Scala, Play framework, PostgreSQL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="190.75006"
+       y="227.38318"
+       id="text319"><tspan
+         sodipodi:role="line"
+         id="tspan317"
+         x="190.75006"
+         y="230.46999"
+         style="stroke-width:0.26458332" /><tspan
+         sodipodi:role="line"
+         x="190.75006"
+         y="234.8797"
+         style="stroke-width:0.26458332"
+         id="tspan321" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#ff0400;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="16.468994"
+       y="267.19879"
+       id="text1105-2-9-41-8-3"><tspan
+         sodipodi:role="line"
+         x="16.468994"
+         y="267.19879"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan1107-9-4-2-7-6">Real estate property listing website with on geospatial index</tspan><tspan
+         id="tspan6847-8-9-7"
+         sodipodi:role="line"
+         x="16.468994"
+         y="271.60852"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#ff0400;fill-opacity:1;stroke-width:0.26458332">Java, Scala, Play framework, PostgreSQL</tspan></text>
   </g>
 </svg>
