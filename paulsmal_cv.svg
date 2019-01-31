@@ -341,15 +341,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.14017"
-     inkscape:cx="503.07852"
-     inkscape:cy="645.10759"
+     inkscape:cx="443.80371"
+     inkscape:cy="802.5846"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1299"
-     inkscape:window-height="704"
-     inkscape:window-x="67"
-     inkscape:window-y="27"
+     inkscape:window-width="1366"
+     inkscape:window-height="768"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -421,7 +421,7 @@
        id="guide1222"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="123.03125,208.82604"
+       position="154.78138,213.95567"
        orientation="0,1"
        id="guide1274"
        inkscape:locked="false" />
@@ -469,7 +469,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -665,7 +665,9 @@
            y="157.2226"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, '" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15646744px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, '"
-         id="flowPara4106">Software developer and OSS user. Recently worked with Elixir, JS, Elm but I would be happy to work with other languages too. I can drop into &quot;DevOps&quot; role if needed to automate my workflow. Experience in telecom, chats, networks, CRM and logistics areas. I'm curious about startups, programming, BeamVM and would like to find a job that intersects with my interests and experience. I withdraw from university for work after 3 years studying CS.  </flowPara></flowRoot>    <text
+         id="flowPara4106">Software developer and Linux user. Recently worked with Elixir, JS, Elm but I would be happy to work with other languages too. I can drop into &quot;DevOps&quot; role. </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.15646744px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, '"
+         id="flowPara731">Telecom, Chats, OSS/BSS, CRM,  Logistics, AdTech. I'm curious about startups, functional programming, BeamVM and would like to find a job that intersects with my interests and experience. I withdraw from university for work after 3 years studying CS.  </flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'Elegant Lux';-inkscape-font-specification:'Elegant Lux';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="83.909264"
@@ -754,7 +756,7 @@
            y="90.713104"
            x="146.24043"
            id="tspan5971"
-           sodipodi:role="line">As a main desktop and server OS.  </tspan></text>
+           sodipodi:role="line">As a main desktop and server OS</tspan></text>
     </g>
     <g
        id="g423"
@@ -806,7 +808,7 @@
            y="102.22911"
            x="146.24837"
            id="tspan5971-8"
-           sodipodi:role="line">Use them everyday</tspan></text>
+           sodipodi:role="line">Using them everyday</tspan></text>
     </g>
     <g
        id="g412"
@@ -868,7 +870,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke-width:0.29006866"
            y="123.15678"
            x="146.24364"
-           sodipodi:role="line">mostly with Elixir and JavaScript</tspan></text>
+           sodipodi:role="line">mostly with Elixir and JS/Elm</tspan></text>
     </g>
     <g
        id="g399"
@@ -903,7 +905,7 @@
              id="tspan1103-6-0-3-4"
              x="16.404165"
              y="91.286461"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21782851px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';fill:#000000;fill-opacity:1;stroke-width:0.26458332">JavaScript</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21782851px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';fill:#000000;fill-opacity:1;stroke-width:0.26458332">JavaScript, Elm</tspan><tspan
              sodipodi:role="line"
              x="16.404165"
              y="94.99015"
@@ -939,7 +941,7 @@
     </g>
     <g
        id="g435"
-       transform="translate(0,-9.5250005)">
+       transform="translate(0,-8.9958338)">
       <g
          style="fill:#000000;fill-opacity:1"
          transform="matrix(1.0963225,0,0,1.0963225,128.32812,67.266881)"
@@ -996,7 +998,7 @@
     </g>
     <g
        id="g447"
-       transform="translate(0,-9.5250005)">
+       transform="translate(0,44.979189)">
       <g
          style="fill:#000000;fill-opacity:1"
          transform="matrix(1.0963225,0,0,1.0963225,128.11293,83.219184)"
@@ -1053,7 +1055,7 @@
     </g>
     <g
        id="g458"
-       transform="translate(0,-9.5250005)">
+       transform="translate(0,-24.341676)">
       <g
          style="fill:#000000;fill-opacity:1"
          transform="matrix(1.0963225,0,0,1.0963225,128.12059,99.225876)"
@@ -1105,7 +1107,7 @@
     </g>
     <g
        id="g471"
-       transform="translate(0,-8.9958338)">
+       transform="translate(0,-23.812509)">
       <g
          style="fill:#000000;fill-opacity:1"
          transform="matrix(1.0963225,0,0,1.0963225,128.12059,114.58)"
@@ -1153,18 +1155,16 @@
            y="219.11501"
            x="146.03848"
            sodipodi:role="line"
-           id="tspan7012">Mostly used <tspan
-   style="font-weight:bold;fill:#000000"
-   id="tspan680">SQL</tspan> but familiar with </tspan><tspan
+           id="tspan4374">I can write SQL and familiar with</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;stroke-width:0.29006866"
            y="223.94948"
            x="146.03848"
            sodipodi:role="line"
-           id="tspan4374">document, KV and graph databases </tspan></text>
+           id="tspan723">other types of data storage  </tspan></text>
     </g>
     <g
        id="g484"
-       transform="translate(0,-34.395849)">
+       transform="translate(0,-49.741692)">
       <g
          style="fill:#000000;fill-opacity:1"
          transform="matrix(1.0963225,0,0,1.0963225,128.12059,157.44763)"
@@ -1195,7 +1195,7 @@
              id="tspan1103-6-0-3-4-1-6-1-6-4-5"
              x="16.404165"
              y="91.286461"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21782851px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';fill:#000000;fill-opacity:1;stroke-width:0.26458332">REST, Protobuf, WebRTC, RTP....</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21782851px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';fill:#000000;fill-opacity:1;stroke-width:0.26458332">REST, Protobuf, WebRTC, RTP...</tspan><tspan
              sodipodi:role="line"
              x="16.404165"
              y="94.99015"
